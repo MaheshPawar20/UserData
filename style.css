@@ -1,0 +1,30 @@
+table{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.R1{
+    border-style: solid;
+    padding: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+th, td{
+    border: 2px solid black;
+}
+button{
+    height: 60px;
+    width: 100px;
+    border:2px solid #4CAF50;
+    transition-duration: 0.4s;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+}
